@@ -1,0 +1,28 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Env
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large files
+*.exe
+*.zip
+*.tar
+*.gz
+
+# Docker
+*.tar
